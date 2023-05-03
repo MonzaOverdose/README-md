@@ -1,5 +1,7 @@
-HI, MY NAMES IS Bruno L. IAM'S PENTESTES && RED TEAMER
+HI, MY NAMES IS Bruno L. IAM'S PENTESTESTER && RED TEAMER
                
-               WELCOME TO MY PROFILE
+                  WELCOME TO MY PROFILE
                
-CLOSE 3301.
+CLOSE 3301. int main() {
+
+}
