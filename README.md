@@ -1,5 +1,6 @@
-HI, MY NAMES IS Bruno L. IAM'S PENTESTESTER && RED TEAMER
-               
+HI, MY NAMES IS Bruno T. Im Pentester/Cybersecurity Enthusiast
+                  
+                  
                   WELCOME TO MY PROFILE
                
 CLOSE 3301. 
